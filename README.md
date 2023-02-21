@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supuni Jaysinghe</h1>
 <h3 align="center">I am a University Undergraduate with a great passion for Computer Science and Engineering. I am a hard-working dedicated dynamic individual who wants to be a qualified professional in the industry.</h3>
 
-- 🌱 I’m currently learning **React, Springboot**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 Reach me **supuni.18@cse.mrt.ac.lk**
 
